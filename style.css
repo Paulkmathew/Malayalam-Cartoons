@@ -1,0 +1,16 @@
+@media  (max-width: 600px) {
+    body {
+      background-color: blue;
+    }
+  }
+body{background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;}
+
+
+.card{background-color: lawngreen;
+    height: 250px;
+    width: 100px;
+    margin: 3px;}
